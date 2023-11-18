@@ -15,12 +15,12 @@ public class Main {
     //  espresso tutto sotto forma di kilocalorie
     	put("uova",65f);	   //1 uovo    
         put("guanciale",650f); //100 g di guanciale 
-        put("pecorino",39f); //una porzione (un cucchiaino)
+        put("pecorino",393f); //100 gr di pecorino
         put("pepe",0f); //privo di calorie
         put("sale",0f); //privo di calorie
-        put("olio",119f); //per un cucchiaino di olio extra vergine di oliva
+        put("olio",822f); //100 ml di olio extra vergine
         put ("polpa di pomodoro",26f);//100gr di sugo
-        put ("parmiggiano",22f); // per un cucchiaino di parmiggiano 
+        put ("parmiggiano",392f); //100gr di parmiggiano  
     }};
     Set<String> chiavi = elencoIngredienti.keySet();
     String NomeRicetta,ingrediente,risposta="";
